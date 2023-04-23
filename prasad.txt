@@ -5,3 +5,6 @@ MS
 94 status
 BS
 MS completed
+
+96 status
+Phd doing

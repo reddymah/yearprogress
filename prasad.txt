@@ -12,3 +12,8 @@ Phd doing
 98 status
 Working and 
 doing phd
+
+========== Add prasad status as of 2000 ================
+2000 status
+Working at Detroit
+Slow on completing phd
